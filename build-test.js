@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+// this test tests whether an prebuild is availible
 process.env.NODE_ENV = 'test'
 
 var path = require('path')
